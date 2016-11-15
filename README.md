@@ -15,17 +15,22 @@ Simulate the communication between spaceship and planet & 3 type of Energy/Power
 using the following instruction to control the square.
 
 - Instruction
-  - GO [NUM]：go forward [NUM] step
-  - TUN LEF：turn left
-  - TUN RIG：turn right
-  - TUN BAC：turn back
-  - TRA LEF [NUM]：step left [NUM] step, with same direction
-  - TRA TOP [NUM]：step upper [NUM] step, with same direction
-  - TRA RIG [NUM]：step right [NUM] step, with same direction
-  - TRA BOT [NUM]：step downward [NUM] step, with same direction
-  - MOV LEF [NUM]：turn left, and step forward [NUM] step
-  - MOV TOP [NUM]：turn upper, and step forward [NUM] step
-  - MOV RIG [NUM]：turn right, and step forward [NUM] step
-  - MOV BOT [NUM]：turn downward, and step forward [NUM] step
+  - GO [NUM]:go forward [NUM] step
+  - TUN LEF:turn left
+  - TUN RIG:turn right
+  - TUN BAC:turn back
+  - TRA LEF [NUM]:step left [NUM] step, with same direction
+  - TRA TOP [NUM]:step upper [NUM] step, with same direction
+  - TRA RIG [NUM]:step right [NUM] step, with same direction
+  - TRA BOT [NUM]:step downward [NUM] step, with same direction
+  - MOV LEF [NUM]:turn left, and step forward [NUM] step
+  - MOV TOP [NUM]:turn upper, and step forward [NUM] step
+  - MOV RIG [NUM]:turn right, and step forward [NUM] step
+  - MOV BOT [NUM]:turn downward, and step forward [NUM] step
+ one instruction, one line
+ 
+-using JavaScript process DOM/strings
+-Parsing instruction & Highlight error instruction
+
 
 
