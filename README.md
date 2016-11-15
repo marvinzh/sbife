@@ -6,6 +6,7 @@
 
 Simulate the communication between spaceship and planet & 3 type of Energy/Power system.
 
+In this task:
 - Implement a simplified BroadcastManager
 - Implement a UI Component
 - Soft coding strings
@@ -29,8 +30,9 @@ using the following instruction to control the square.
   - MOV BOT [NUM]:turn downward, and step forward [NUM] step
  one instruction, one line
  
--using JavaScript process DOM/strings
--Parsing instruction & Highlight error instruction
+In this task:
+- using JavaScript process DOM/strings
+- Parsing instruction & Highlight error instruction
 
 
 
